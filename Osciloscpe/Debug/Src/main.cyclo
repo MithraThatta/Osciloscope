@@ -1,0 +1,4 @@
+../Src/main.c:11:5:main	4
+../Src/main.c:41:6:USART2_IRQHandler	4
+../Src/main.c:60:6:bufferAdd	2
+../Src/main.c:71:6:ADC1_2_IRQHandler	2
